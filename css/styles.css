@@ -1,0 +1,46 @@
+h1 {
+    font-size: 28px;
+}
+
+.container {
+    max-width: 400px;
+}
+
+#firmenlogo {
+    width: 100%;
+    max-width: 400px;
+    margin-bottom: 20px;
+}
+
+form .form-group label {
+    margin-bottom: 0.5rem;
+}
+
+form .form-check label {
+    margin-bottom: 0;
+}
+
+.d-flex {
+    gap: 10px;
+}
+
+.result-container {
+    margin-top: 20px;
+}
+
+.custom-button {
+    background-color: #b5123e;
+    color: white;
+}
+
+.custom-button:hover {
+    background-color: #d5144f;
+    color: white;
+}
+
+.custom-radio:checked {
+    background-color: #b5123e;
+    border-color: #b5123e;
+}
+
+
