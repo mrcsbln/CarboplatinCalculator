@@ -1,3 +1,5 @@
+"use strict";
+
 function calculateDosage() {
     const age = document.getElementById('age').value;
     const weight = document.getElementById('weight').value;
